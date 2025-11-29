@@ -4,7 +4,7 @@ Aplikasi To-Do List berbasis Command Line Interface (CLI) menggunakan bahasa pem
 
 ## 🎥 Video Demo
 
-[![Video Demo Penjelasan Project](https://img.shields.io/badge/YouTube-Demo_Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/YOUR_VIDEO_ID_HERE)
+[![Video Demo Penjelasan Project](https://img.shields.io/badge/YouTube-Demo_Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/WIvoIXmEnqw)
 
 ## 🎯 Fitur Utama
 
