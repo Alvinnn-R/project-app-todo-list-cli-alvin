@@ -2,6 +2,10 @@
 
 Aplikasi To-Do List berbasis Command Line Interface (CLI) menggunakan bahasa pemrograman Golang. Aplikasi ini membantu pengguna mengelola daftar tugas mereka secara lokal melalui terminal, dengan menyimpan data ke dalam file berformat JSON.
 
+## 🎥 Video Demo
+
+[![Video Demo Penjelasan Project](https://img.shields.io/badge/YouTube-Demo_Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/YOUR_VIDEO_ID_HERE)
+
 ## 🎯 Fitur Utama
 
 - ✅ **Menambahkan Tugas** - Tambahkan tugas baru dengan title dan description
@@ -104,22 +108,6 @@ go run main.go search --keyword "Golang"
 
 ```bash
 go run main.go help
-```
-
-## 📖 Contoh Penggunaan
-
-### Menambahkan Beberapa Todo
-
-```bash
-go run main.go add --title "Belajar Golang" --desc "Mempelajari dasar-dasar Golang"
-go run main.go add --title "Membuat Project" --desc "Membuat CLI Todo List"
-go run main.go add --title "Code Review" --desc "Review kode dengan mentor"
-```
-
-### Melihat Daftar Todo
-
-```bash
-go run main.go list
 ```
 
 Output:
