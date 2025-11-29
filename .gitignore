@@ -1,0 +1,27 @@
+# Data files
+data/
+*.json
+
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+todo-list-cli
+
+# Test binary
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Go workspace file
+go.work
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
