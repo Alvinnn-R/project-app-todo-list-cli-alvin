@@ -37,7 +37,7 @@ func (th *TodoHandler) AddTodo(title, description string) {
 	fmt.Printf("ID: %d\n", todo.Id)
 	fmt.Printf("Title: %s\n", todo.Title)
 	fmt.Printf("Description: %s\n", todo.Description)
-	fmt.Printf("Created at: %s\n", todo.CreatedAt.Format("2025-11-27 15:04:05"))
+	fmt.Printf("Created at: %s\n", todo.CreatedAt.Format("2006-01-02 15:04:05"))
 }
 
 // ListTodos handler untuk menampilkan semua tugas dalam format tabel

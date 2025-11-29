@@ -83,7 +83,7 @@ func (ts *TodoService) ListTodos() ([]dto.ListTodoResponse, error) {
 			Title:       t.Title,
 			Description: t.Description,
 			IsCompleted: t.IsCompleted,
-			CreatedAt:   t.CreatedAt.Format("2025-11-27 15:04:05"),
+			CreatedAt:   t.CreatedAt.Format("2006-01-02 15:04:05"),
 		}
 		listTodos = append(listTodos, todo)
 	}

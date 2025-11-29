@@ -216,7 +216,7 @@ Data disimpan di `data/todos.json` dengan format:
 
 ## 👨‍💻 Author
 
-**Nama**: [Nama Anda]  
+**Nama**: Alvin Rama S  
 **Project**: CLI To-Do List Application  
 **Tanggal**: 29 November 2025
 
